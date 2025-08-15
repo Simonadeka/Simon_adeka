@@ -1,2 +1,2 @@
-# Simon_adeka
-Network/Web development
+# simon_adeka
+Network/Network Security
