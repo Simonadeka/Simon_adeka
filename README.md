@@ -13,6 +13,12 @@
 
 ---
 
+## 📝 Publications & Articles
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
 ## 🛠️ Skills & Tools
 ![Networking](https://img.shields.io/badge/Networking-005571?logo=cisco&logoColor=white)
 ![Security](https://img.shields.io/badge/Security-FF0000?logo=security&logoColor=white)
