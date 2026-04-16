@@ -47,7 +47,6 @@
 - 🎯 **Goals**:  
   - CompTIA Security+ Certification  
   - CEH (Certified Ethical Hacker)  
-  - CISSP (Certified Information Systems Security Professional)  
 - ✍️ Sharing insights and tutorials on [Medium](https://medium.com/@simon-friday-adeka)
 
 ---
